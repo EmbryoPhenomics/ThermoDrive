@@ -1,5 +1,7 @@
 # ThermoDrive
 
+### *This repository will be regularly updated as the details of ThermoDrive are documented and released* 
+
 ## Programmable temperature control for experimental organisms
 
 ThermoDrive is an open-source, Peltier-based system for precise control of temperature in experimental chambers. It supports both stable setpoints and dynamic temperature regimes, allowing temperature to be programmed to change through time while continuously monitoring the experimental environment.
